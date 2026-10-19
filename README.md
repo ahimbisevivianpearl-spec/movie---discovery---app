@@ -23,4 +23,4 @@ MovieBox is a movie application that allows users to explore movies and view mov
 This project is maintained on GitHub.
 
 ## Author
-Student project — MovieBox
+Vivian Pear — MovieBox
