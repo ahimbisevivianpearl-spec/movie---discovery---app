@@ -18,7 +18,8 @@ MovieBox is a movie application that allows users to explore movies and view mov
 
 ## How to Access the Application
 **Live Application:** [https://movie-discovery-app-gules.vercel.app/]
-**
+
+**(https://github.com/ahimbisevivianpearl-spec/movie---discovery---app)
 
 ## Project Repository
 This project is maintained on GitHub.
